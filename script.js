@@ -1,0 +1,1 @@
+// Barcha JS kodlar shu faylda bo'ladi
