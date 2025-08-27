@@ -8,7 +8,7 @@ from database import *
 from admin import *
 
 API_TOKEN = "8464698459:AAEiswJ5qaOJ7MMq2KDMdw7yE0m1icRyQt8"
-WEBAPP_URL = "https://your-webapp-url.com"  # Replace with your deployed WebApp URL
+WEBAPP_URL = "https://hayotulloxon.github.io/2048_3/"  # Replace with your deployed WebApp URL
 CHANNEL_ID = "@yourchannel"  # Replace with your channel
 
 logging.basicConfig(level=logging.INFO)
